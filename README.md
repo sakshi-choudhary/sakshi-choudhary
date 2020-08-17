@@ -1,5 +1,5 @@
 ### Hi there 👋
-![me](me.png)
+
 
 <!--
 **sakshi-choudhary/sakshi-choudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@
 - 🔭 I’m currently focusing on  **Competitive Programming**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently learning **Data Structures & Algorithms**
-- 😁 I really like **Web Development**
+- 😁 I really like **Web Development**. Stack : **MERN**
 - 📫 How to reach me: 
   [<br><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sakshichoudhary23/)
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sakshi._.choudhary/)
