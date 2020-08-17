@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+ 
+ <img src='https://github.com/sakshi-choudhary/sakshi-choudhary/blob/master/me.png?raw=true' width='100%' height='100%;' />
 
 <!--
 **sakshi-choudhary/sakshi-choudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
