@@ -1,12 +1,13 @@
 ### Hi there 👋
+![me](me.png)
 
 <!--
 **sakshi-choudhary/sakshi-choudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 
-- :school: I'm [Sakshi Choudhary](https://sakshi-choudhary.github.io/)  currently a second Year CSE student at <a href="hhttps://www.srmuniversity.ac.in">@SRMIST  </a>
-- 🔭 I’m currently working on  **Competitive Programming**
+- :school: I'm [Sakshi Choudhary](https://sakshichoudhary.me/)  currently a second Year CSE student at <a href="hhttps://www.srmuniversity.ac.in">@SRMIST  </a>
+- 🔭 I’m currently focusing on  **Competitive Programming**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 - 😁 I really like **Web Development**
