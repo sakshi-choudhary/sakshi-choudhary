@@ -1,8 +1,10 @@
-### Hello World 👋
+### <Hello World/>  <img src="https://github.com/sakshi-choudhary/sakshi-choudhary/blob/master/assets/Hi.gif" width="29px">
 
 <!--
 **sakshi-choudhary/sakshi-choudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
 - :school: I'm [Sakshi Choudhary](https://sakshichoudhary.me/)  currently a second Year CSE student at <a href="hhttps://www.srmuniversity.ac.in">@SRMIST  </a>
