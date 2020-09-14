@@ -4,8 +4,8 @@
 **sakshi-choudhary/sakshi-choudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
 
 - :school: I'm [Sakshi Choudhary](https://sakshichoudhary.me/)  currently a second Year CSE student at <a href="hhttps://www.srmuniversity.ac.in">@SRMIST  </a>
 - 🔭 I’m currently focusing on  **Competitive Programming**
@@ -21,5 +21,6 @@
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-choudhary&theme=radical&hide_langs_below=4'/> -->
 
    [![Stats](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=radical)
+
 
 
