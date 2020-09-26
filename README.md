@@ -8,10 +8,9 @@
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
 
 - :school: I'm [Sakshi Choudhary](https://sakshichoudhary.me/)  currently a second Year CSE student at <a href="hhttps://www.srmuniversity.ac.in">@SRMIST  </a>
-- 🔭 I’m currently focusing on  **Competitive Programming**
+- ❤️ Development
+- 🤟 I'm a MERN Stack Web Developer.
 - :neutral_face: I have a **love/hate** relationship with **Programming**
-- 🌱 I’m currently learning **Data Structures & Algorithms**
-- 😁 I really like **Web Development**. Stack : **MERN**
 - 📫 How to reach me: 
   [<br><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sakshichoudhary23/)
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sakshi._.choudhary/)
