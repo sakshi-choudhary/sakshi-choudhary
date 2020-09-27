@@ -10,7 +10,6 @@
 - :school: I'm [Sakshi Choudhary](https://sakshichoudhary.me/)  currently a second Year CSE student at <a href="hhttps://www.srmuniversity.ac.in">@SRMIST  </a>
 - ❤️ **Development**
 - 🤟 I'm a **MERN Stack Web Developer**.
-- 🤨 I also keep practising **DS & Algo**.
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 😄 Pronouns: She / Her
 - 🤔 Ask me about **Web Development**.
