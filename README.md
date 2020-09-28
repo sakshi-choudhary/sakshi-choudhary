@@ -20,7 +20,7 @@
 
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-choudhary&theme=radical&hide_langs_below=4'/> -->
 
-   [![Stats](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=radical)
+
 
 
 
