@@ -24,5 +24,4 @@
 
 
 
-
-![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary)
+![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=dark)
