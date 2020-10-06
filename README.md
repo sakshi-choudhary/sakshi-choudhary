@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
 
-- :school: I'm [Sakshi Choudhary](https://sakshichoudhary.me/)  currently a second Year CSE student at <a href="hhttps://www.srmuniversity.ac.in">@SRMIST  </a>
+- :school: I'm [Sakshi](https://sakshichoudhary.me/)  currently a second Year CSE student at <a href="hhttps://www.srmuniversity.ac.in">@SRMIST  </a>
 - ❤️ **Development**
 - 🤟 I'm a **MERN Stack Web Developer**.
 - :neutral_face: I have a **love/hate** relationship with **Programming**
