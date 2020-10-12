@@ -30,4 +30,3 @@
                                     ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 Show some ❤️ ! ⭐️  some of my repositories!
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sakshi-choudhary.visitor-badge)
