@@ -28,5 +28,6 @@
 ![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=dark&count_private=true)
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-choudhary&theme=dark&hide_langs_below=4&layout=compact'/>  
                                     ![Jokes Card](https://readme-jokes.vercel.app/api)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sakshi-choudhary.visitor-badge)
+
 Show some ❤️ ! ⭐️  some of my repositories!
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sakshi-choudhary.visitor-badge)
