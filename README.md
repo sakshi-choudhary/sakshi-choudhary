@@ -18,15 +18,10 @@
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sakshi._.choudhary/)
   <a href="mailto:choudharysakshi023@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sakshi-choudhary.visitor-badge)
-
- <!--  [![Stats](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=radical) -->
-
-
-
-
 ![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=dark&count_private=true)
+
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-choudhary&theme=dark&hide_langs_below=4&layout=compact'/>  
-                                    ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 Show some ❤️ ! ⭐️  some of my repositories!
