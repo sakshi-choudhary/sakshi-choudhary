@@ -14,12 +14,13 @@
 - 😄 Pronouns: She / Her
 - 🤔 Ask me about **Web Development**.
 - 📫 How to reach me: 
-  [<br><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sakshichoudhary23/)
-  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sakshi._.choudhary/)
-  <a href="mailto:choudharysakshi023@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+ [<br><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sakshichoudhary23/)
+ [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sakshi._.choudhary/)
+ <a href="mailto:choudharysakshi023@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 ![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=dark&count_private=true)
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-choudhary&theme=dark&hide_langs_below=4&layout=compact'/>  
 
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
 <img alt="GIF" height="200px" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
+
 Show some ❤️ ! ⭐️  some of my repositories!
