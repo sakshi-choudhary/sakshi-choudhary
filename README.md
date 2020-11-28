@@ -10,7 +10,7 @@
 
 
 
-- :school: I'm [Sakshi](https://sakshichoudhary.me/)  currently a second Year CSE student at <a href="hhttps://www.srmuniversity.ac.in">@SRMIST  </a>
+- :school: I'm [Sakshi](https://sakshichoudhary.me/),  currently a 2nd Year CSE student at <a href="hhttps://www.srmuniversity.ac.in"> <b>@SRMIST</b> </a>
 - ❤️ **Development**
 - 🤟 I'm a **MERN Stack Web Developer**
 - 🤓 Currently I'm working more on my **DSA Skills**
