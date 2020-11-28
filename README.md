@@ -24,7 +24,7 @@
 
 <hr>
 
-<a href="https://medium.com/data-science-community-srm/a-look-into-the-hooks-a79c9b1d75aa"><i><img src="https://img.icons8.com/color/48/000000/medium.png" width="2%"/> Check out my Recent Blog on ReactJS **A Look Into The Hooks** </i> </a>
+<a href="https://medium.com/data-science-community-srm/a-look-into-the-hooks-a79c9b1d75aa"><i><img src="https://img.icons8.com/color/48/000000/medium.png" width="2%"/> Check out my Recent Blog on ReactJS **"A Look Into The Hooks"** </i> </a>
 
 <hr>
 
