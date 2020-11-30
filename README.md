@@ -33,6 +33,7 @@
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-choudhary&theme=dark&hide_langs_below=4&layout=compact'/>  
 
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
+<img alt="GIF" height="150px" src="https://media.giphy.com/media/RvnTYlyksGLdjNR1KA/giphy.gif" />
 <img alt="GIF" height="200px" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
 
 Show some ❤️ ! ⭐️  some of my repositories!
