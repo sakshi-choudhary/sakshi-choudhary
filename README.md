@@ -5,7 +5,7 @@
 **sakshi-choudhary/sakshi-choudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="200px" src="https://github.com/sakshi-choudhary/sakshi-choudhary/blob/master/my-memoji.jpg" />
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
 
 
