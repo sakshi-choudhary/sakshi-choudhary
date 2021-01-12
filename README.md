@@ -15,7 +15,6 @@
 - 🤟 I'm a **MERN Stack Web Developer**
 - 🤓 Currently I'm working more on my **DSA Skills**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
-- 😄 Pronouns: She / Her
 - 📫 Let's Connect: 
  <a href="https://github.com/sakshi-choudhary" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
