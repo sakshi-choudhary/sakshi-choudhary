@@ -11,7 +11,7 @@
 
 
 - :school: I'm [Sakshi](https://sakshichoudhary.me/),  currently a 2nd Year CSE student at <a href="hhttps://www.srmuniversity.ac.in"> <b>@SRMIST</b> </a>
-- ❤️ **Development**
+- 🚀 I work with MERN stack and also code in C++ most of the time.
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 📫 Let's Connect: 
  <a href="https://github.com/sakshi-choudhary" target="_blank">
