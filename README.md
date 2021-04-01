@@ -73,8 +73,8 @@
 </br>
 ![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=dark&count_private=true)
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-choudhary&theme=dark&hide_langs_below=4&layout=compact'/>  
-![Jokes Card](https://readme-jokes.vercel.app/api) 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-choudhary&theme=dark" alt="sakshi-choudhary" />
+<p> <img align="left"  src="https://readme-jokes.vercel.app/api"  alt="sakshi-choudhary" />
+<img align="right" width="500"  src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-choudhary&theme=dark" alt="sakshi-choudhary" /></p>
 
-<br>
+<br/>
 <i> Show some ❤️ ! ⭐️  some of my repositories!</i>
