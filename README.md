@@ -11,7 +11,7 @@
 
 
 - :school: I'm [Sakshi](https://sakshichoudhary.me/), a CSE sophomore
-- 🚀 I work with MERN stack.
+- 🚀 I work with **MERN** stack.
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🤓 I like going for hackathons 
 - ✨ **3rd** Rank @IITB EdTech Hack'21
