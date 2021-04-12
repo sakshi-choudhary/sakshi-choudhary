@@ -14,8 +14,8 @@
 - 🚀 I work with MERN stack.
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🤓 I like going for hackathons 
-- ✨ *3rd* Rank @IITB EdTech Hack'21
-- 🤟🏻 *7th* Rank @HTM'20
+- ✨ **3rd** Rank @IITB EdTech Hack'21
+- 🤟🏻 **7th** Rank @HTM'20
 - 📫 Let's Connect: 
  <a href="https://github.com/sakshi-choudhary" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
