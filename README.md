@@ -13,8 +13,8 @@
 - :school: I'm [Sakshi](https://sakshichoudhary.me/), a CSE sophomore
 - 🚀 I work with **MERN** stack.
 - :neutral_face: I have a **love/hate** relationship with **Programming**
-- ✨ **3rd** Position @IITB EdTech Hack'21
-- 🤟🏻 **7th** Position @HackTheMountains'20
+- 🏆 **3rd** Position @IITB EdTech Hack'21
+- 🏆 **7th** Position @HackTheMountains'20
 - 📫 Let's Connect: 
  <a href="https://github.com/sakshi-choudhary" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
