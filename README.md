@@ -10,7 +10,7 @@
 
 
 
-- :school: I'm [Sakshi](https://sakshichoudhary.me/), a CSE sophomore
+- :school: I'm [Sakshi](https://sakshichoudhary.tech/), a CSE sophomore
 - 🚀 I work with **MERN** stack.
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🏆 **3rd** Position @IITB EdTech Hack'21
