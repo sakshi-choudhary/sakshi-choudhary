@@ -11,7 +11,8 @@
 
 
 - :school: I'm [Sakshi](https://sakshichoudhary.tech/), a CSE sophomore
-- 🚀 I work with **MERN** stack.
+- 💻 Currently, I'm working as a Software Dev @[Pudle](https://pudle.in/)
+- ❤️ I build apps and web apps.
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🏆 **3rd** Position @IITB EdTech Hack'21
 - 🤟🏻 **7th** Position @HackTheMountains'20
