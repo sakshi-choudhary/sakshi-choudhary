@@ -10,8 +10,7 @@
 
 
 
-- :school: I'm [Sakshi](https://sakshichoudhary.tech/), a CSE sophomore
-- 💻 Currently, I'm working as a Software Dev @[Pudle](https://pudle.in/)
+- :school: I'm [Sakshi](https://sakshichoudhary.tech/), a CSE undergrad
 - ❤️ I build apps and web apps.
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🏆 **3rd** Position @IITB EdTech Hack'21
