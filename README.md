@@ -10,11 +10,11 @@
 
 
 
-- :school: I'm [Sakshi](https://sakshichoudhary.tech/), a CSE undergrad
-- ❤️ I build apps and web apps.
-- :neutral_face: I have a **love/hate** relationship with **Programming**
-- 🏆 **3rd** Position @IITB EdTech Hack'21
-- 🤟🏻 **7th** Position @HackTheMountains'20
+- :school: <samp>I'm [Sakshi](https://sakshichoudhary.tech/), a CSE undergrad</samp>
+- ❤️ <samp>I build apps and web apps.</samp>
+- :neutral_face: <samp>I have a **love/hate** relationship with **Programming**</samp>
+- 🏆 <samp> **3rd** Position @IITB EdTech Hack'21</samp>
+- 🤟🏻 <samp> **7th** Position @HackTheMountains'20</samp>
 - 📫 Let's Connect: 
  <a href="https://github.com/sakshi-choudhary" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
