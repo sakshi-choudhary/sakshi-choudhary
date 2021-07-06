@@ -11,7 +11,7 @@
 
 
 - :school: <samp>I'm [Sakshi](https://sakshichoudhary.tech/), a CSE undergrad</samp>
-- ❤️ <samp>I build apps and web apps.</samp>
+- 👝 <samp>GitHub Extern at [Pabio](https://github.com/PabioHQ) working on [Upptime](https://github.com/upptime/upptime).</samp>
 - :neutral_face: <samp>I have a **love/hate** relationship with **Programming**</samp>
 - 🏆 <samp> **3rd** Position @IITB EdTech Hack'21</samp>
 - 🤟🏻 <samp> **7th** Position @HackTheMountains'20</samp>
