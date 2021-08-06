@@ -7,9 +7,6 @@
 
 <img align="right" alt="GIF" height="200px" src="https://github.com/sakshi-choudhary/sakshi-choudhary/blob/master/laptop-memoji.jpg" />
 
-
-
-
 - :school: <samp>I'm [Sakshi](https://sakshichoudhary.tech/), a CSE undergrad</samp>
 - 👝 <samp>GitHub Extern at [Pabio](https://github.com/PabioHQ) working on [Upptime](https://github.com/upptime/upptime).</samp>
 - :neutral_face: <samp>I have a **love/hate** relationship with **Programming**</samp>
@@ -72,7 +69,6 @@
 
 <hr/>
 <br/>
-
 
 ![](https://activity-graph.herokuapp.com/graph?username=sakshi-choudhary&theme=github)
 ![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=dark&count_private=true)
