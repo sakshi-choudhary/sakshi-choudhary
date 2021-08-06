@@ -63,10 +63,9 @@
 
  <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="25" height="25" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width:100%;">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="25" style="max-width:100%;">
-</div>  
+</div>
 
 <br/>  
-
 <hr>
 
 <a href="https://medium.com/data-science-community-srm/a-look-into-the-hooks-a79c9b1d75aa"><i><img src="https://img.icons8.com/color/48/000000/medium.png" width="2%"/> Check out my Recent Blog on ReactJS **"A Look Into The Hooks"** </i> </a>
@@ -79,7 +78,7 @@
 ![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=dark&count_private=true)
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-choudhary&theme=dark&hide_langs_below=4&layout=compact'/>  
 <p align="center"> 
-<img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-choudhary&theme=dark" alt="sakshi-choudhary" />
+<img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-choudhary&theme=dark" alt="sakshi-choudhary" />
 </p>
 
 
