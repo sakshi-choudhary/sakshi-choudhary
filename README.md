@@ -8,7 +8,7 @@
 <img align="right" alt="GIF" height="200px" src="https://github.com/sakshi-choudhary/sakshi-choudhary/blob/master/laptop-memoji.jpg" />
 
 - :school: <samp>I'm [Sakshi](https://sakshichoudhary.tech/), a CSE undergrad</samp>
-- 👝 <samp>GitHub Extern at [Pabio](https://github.com/PabioHQ) working on [Upptime](https://github.com/upptime/upptime).</samp>
+- 👝 <samp>GitHub Extern at [Pabio](https://github.com/PabioHQ) working on [Upptime](https://github.com/upptime).</samp>
 - :neutral_face: <samp>I have a **love/hate** relationship with **Programming**</samp>
 - 🏆 <samp> **3rd** Position @IITB EdTech Hack'21</samp>
 - 🤟🏻 <samp> **7th** Position @HackTheMountains'20</samp>
