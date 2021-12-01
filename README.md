@@ -5,7 +5,6 @@
 **sakshi-choudhary/sakshi-choudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <img align="right" alt="GIF" height="200px" src="https://github.com/sakshi-choudhary/sakshi-choudhary/blob/master/laptop-memoji.jpg" />
-
 - :school: <samp>I'm [Sakshi](https://sakshichoudhary.tech/), a CSE undergrad</samp>
 - 🚩 GitHub Campus Expert.
 - 👝 <samp>GitHub Extern at [Pabio](https://github.com/PabioHQ) working on [Upptime](https://github.com/upptime).</samp>
