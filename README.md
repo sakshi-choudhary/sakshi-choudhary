@@ -70,12 +70,9 @@
 <hr/>
 <br/>
 
-![](https://activity-graph.herokuapp.com/graph?username=sakshi-choudhary&theme=github)
-![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=dark&count_private=true)
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-choudhary&theme=dark&hide_langs_below=4&layout=compact'/>  
-<p align="center"> 
-<img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-choudhary&theme=bear" alt="sakshi-choudhary" />
-</p>
+<img align="left" src="https://activity-graph.herokuapp.com/graph?username=sakshi-choudhary&theme=github" width="500">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=dark&count_private=true" width="400">
+
 
 
 
