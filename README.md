@@ -70,7 +70,7 @@
 <hr/>
 <br/>
 
-<img align="left" src="https://activity-graph.herokuapp.com/graph?username=sakshi-choudhary&theme=github" width="500">
+<img align="left" src="https://activity-graph.herokuapp.com/graph?username=sakshi-choudhary&theme=github" width="400">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=dark&count_private=true" width="400">
 
 
