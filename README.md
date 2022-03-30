@@ -7,7 +7,6 @@
 <img align="right" alt="GIF" height="200px" src="https://github.com/sakshi-choudhary/sakshi-choudhary/blob/master/laptop-memoji.jpg" />
 
 
-
 - :school: <samp>I'm [Sakshi](https://sakshichoudhary.tech/), a CSE undergrad</samp>
 - 🚩 <samp>GitHub Campus Expert.</samp>
 - 👝 <samp>GitHub Extern'21 at [Pabio](https://github.com/PabioHQ).</samp>
