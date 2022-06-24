@@ -11,7 +11,8 @@
 - 🚩 <samp>GitHub Campus Expert.</samp>
 - 👝 <samp>GitHub Extern'21 at [Pabio](https://github.com/PabioHQ).</samp>
 - :neutral_face: <samp>I have a **love/hate** relationship with **Programming**</samp>
-- 🏆 <samp> **3rd** Position @IITB EdTech Hack'21</samp>
+- 🥇 <samp>1st College Rank, 4th Rank - Code Diva & 42 Rank Overall in CodeKaze (coding competition by Coding Ninjas)</samp>
+- 🥉 <samp> **3rd** Position @IITB EdTech Hack'21</samp>
 - 🤟🏻 <samp> **7th** Position @HackTheMountains'20</samp>
 - 📫 Let's Connect: 
  <a href="https://github.com/sakshi-choudhary" target="_blank">
