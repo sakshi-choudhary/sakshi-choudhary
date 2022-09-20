@@ -62,6 +62,11 @@
 
  <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="25" height="25" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width:100%;">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="25" style="max-width:100%;">
+ 
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="40" height="40" style="max-width:100%;">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="25" style="max-width:100%;">
+    <img src="https://www.azul.com/wp-content/uploads/2017/03/kafka.jpg" alt="kafka" width="40" height="25" style="max-width:100%;">
+     <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="spring" width="40" height="25" style="max-width:100%;">
 </div>
 
 <br/>  
