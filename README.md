@@ -9,7 +9,7 @@
 
 - :school: <samp>I'm [Sakshi](https://sakshichoudhary.tech/), a CSE undergrad</samp>
 - 🚩 <samp>GitHub Campus Expert.</samp>
-- 👝 <samp>Former SDE Intern'22 @BNYMellon</samp>
+- 👝 <samp>Former SDE Intern'22 [BNY Mellon](https://bnymellon.com)</samp>
 - 👝 <samp>GitHub Extern'21 at [Pabio](https://github.com/PabioHQ).</samp>
 - :neutral_face: <samp>I have a **love/hate** relationship with **Programming**</samp>
 - 🥇 <samp>1st College Rank, 4th Rank - Code Diva & 42 Rank Overall in CodeKaze (coding competition by Coding Ninjas)</samp>
