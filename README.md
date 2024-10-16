@@ -60,7 +60,6 @@
 
 <br/>
 
-<img align="left" src="https://activity-graph.herokuapp.com/graph?username=sakshi-choudhary&theme=github" width="400">
 
 
 
