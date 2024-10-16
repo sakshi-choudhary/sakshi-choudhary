@@ -9,7 +9,6 @@
 
 
 - :school: <samp>I'm Sakshi</samp>
-- 🚩 <samp>GitHub Campus Expert.</samp>
 - 👝 <samp>SDE at [Bank of New York](https://bnymellon.com)</samp>
 
 - 📫 Let's Connect: 
