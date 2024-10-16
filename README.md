@@ -10,26 +10,15 @@
 
 - :school: <samp>I'm Sakshi</samp>
 - 🚩 <samp>GitHub Campus Expert.</samp>
-- 👝 <samp>SDE at [BNY Mellon](https://bnymellon.com)</samp>
-- 👝 <samp>GitHub Extern'21 at [Pabio](https://github.com/PabioHQ).</samp>
-- :neutral_face: <samp>I have a **love/hate** relationship with **Programming**</samp>
-- 🥉 <samp> **3rd** Position @IITB EdTech Hack'21</samp>
+- 👝 <samp>SDE at [Bank of New York](https://bnymellon.com)</samp>
+
 - 📫 Let's Connect: 
  <a href="https://github.com/sakshi-choudhary" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/sakshi__ch" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/sakshichoudhary23" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/sakshi._.choudhary" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@choudharysakshi023" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
+</a> 
 
 <br/>
 
@@ -69,12 +58,6 @@
      <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="spring" width="40" height="25" style="max-width:100%;">
 </div>
 
-<br/>  
-<hr>
-
-<a href="https://medium.com/data-science-community-srm/a-look-into-the-hooks-a79c9b1d75aa"><i><img src="https://img.icons8.com/color/48/000000/medium.png" width="2%"/> Check out my blog on ReactJS **"A Look Into The Hooks"** </i> </a>
-
-<hr/>
 <br/>
 
 <img align="left" src="https://activity-graph.herokuapp.com/graph?username=sakshi-choudhary&theme=github" width="400">
