@@ -9,7 +9,7 @@
 
 
 - :school: <samp>I'm Sakshi</samp>
-- 👝 <samp>SDE at [Bank of New York](https://bnymellon.com)</samp>
+- 👝 <samp>SDE-2 at Mastercard</samp>
 
 
 <a href="https://linkedin.com/in/sakshichoudhary23" target="_blank">
